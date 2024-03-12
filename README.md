@@ -16,6 +16,6 @@ Optionally, you can customize the blur effect by adding the following attributes
 
 ![chrome_oSi1DinL47](https://github.com/RiyuDio/ProgressiveBlur/assets/132917131/faa8da7b-4077-4efd-b360-80742f84f708)
 
-**For for the Progressive blur at the top of this image, it is setup like this:** There us just a div that is positioned above the text group, with these attributes present: ProgressiveBlur="parent", ProgressiveDirection="up", ProgressiveColor="#FFFFFF", ProgressiveIntensity="4"
+**For the Progressive blur at the top of this image, it is setup like this:** There us just a div that is positioned above the text group, with these attributes present: ProgressiveBlur="parent", ProgressiveDirection="up", ProgressiveColor="#FFFFFF", ProgressiveIntensity="4"
 
 ![chrome_iqE9xhUjeD](https://github.com/RiyuDio/ProgressiveBlur/assets/132917131/c68730e3-a9e9-4a9b-a0eb-c8070dba9d94)
