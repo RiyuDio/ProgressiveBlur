@@ -10,12 +10,12 @@ Optionally, you can customize the blur effect by adding the following attributes
 
 **ProgressiveColor**: Specify the color of the blur effect. Default is white (#FFFFFF). Set to "invisible" to only use colorless blurs. Typically, this color is based on your background color.
 
-**ProgressiveDirection:** Specify the direction of the blur effect. Default is "down". Options include "up" and "down". Down = The blur fades out from direction up to down. Up = The blur fades out from direction down to up. If that makes any sense at all.
+**ProgressiveDirection:** Specify the direction of the blur effect. Default is "down". Options include "up" and "down". **Down** = The blur fades out from direction up to down. **Up** = The blur fades out from direction down to up. If that makes any sense at all.
 
 **ProgressiveIntensity:** Specify the intensity of the blur effect.
 
-![image](https://github.com/RiyuDio/ProgressiveBlur/assets/132917131/a77f558c-2f99-4163-9d4c-98b71aa34e7f)
+![chrome_oSi1DinL47](https://github.com/RiyuDio/ProgressiveBlur/assets/132917131/faa8da7b-4077-4efd-b360-80742f84f708)
 
-**The Progressive blur at the top of this image is setup like this:** There us just a div that floats above the text group, with these attributes present: ProgressiveBlur="parent", ProgressiveDirection="up", ProgressiveColor="#FFFFFF", ProgressiveIntensity="4"
+**For for the Progressive blur at the top of this image, it is setup like this:** There us just a div that is positioned above the text group, with these attributes present: ProgressiveBlur="parent", ProgressiveDirection="up", ProgressiveColor="#FFFFFF", ProgressiveIntensity="4"
 
-![Uploading image.png…]()
+![chrome_iqE9xhUjeD](https://github.com/RiyuDio/ProgressiveBlur/assets/132917131/c68730e3-a9e9-4a9b-a0eb-c8070dba9d94)
