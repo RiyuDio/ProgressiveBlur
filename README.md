@@ -4,7 +4,7 @@ Progressive Blur is a JavaScript function designed to create a progressive blur 
 
 Include the Progressive Blur script in your HTML file.
 
-Add the ProgressiveBlur="parent" attribute to the HTML elements you want to apply the blur effect to. This parent should overlay whatever is being progressively blured, most cases the parent would be in an absolute or fixed position at either ends (top or bottom) of the whatever is being progressively blured 
+Add the **ProgressiveBlur="parent"** attribute to the HTML elements you want to apply the blur effect to. This parent should overlay whatever is being progressively blured, most cases the parent would be in an absolute or fixed position at either ends (top or bottom) of the whatever is being progressively blured 
 
 Optionally, you can customize the blur effect by adding the following attributes to the parent elements:
 
