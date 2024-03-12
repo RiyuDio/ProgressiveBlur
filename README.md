@@ -16,6 +16,6 @@ Optionally, you can customize the blur effect by adding the following attributes
 
 ![image](https://github.com/RiyuDio/ProgressiveBlur/assets/132917131/a77f558c-2f99-4163-9d4c-98b71aa34e7f)
 
-**The Progressive blur at the top is setup like this:** ProgressiveBlur="parent", ProgressiveDirection="up", ProgressiveColor="#FFFFFF", ProgressiveIntensity="4"
+**The Progressive blur at the top of this image is setup like this:** ProgressiveBlur="parent", ProgressiveDirection="up", ProgressiveColor="#FFFFFF", ProgressiveIntensity="4"
 
-**While at the bottom is like this:** ProgressiveBlur="parent", ProgressiveDirection="Down", ProgressiveColor="#FFFFFF", ProgressiveIntensity="1"
+**While at the bottom of the image is setup like this:** ProgressiveBlur="parent", ProgressiveDirection="Down", ProgressiveColor="#FFFFFF", ProgressiveIntensity="1"
